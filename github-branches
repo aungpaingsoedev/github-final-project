@@ -2,7 +2,7 @@ $ git fetch origin
 $ git branch -vv
   bug-fix-revert b279843 [origin/bug-fix-revert] Revert "Fix typo in simple-interest.sh"
   bug-fix-typo   6f6633b [origin/bug-fix-typo] Fix typo in README.md
-* main           8aba3ee [origin/main] Record fork metadata and the README merge
+* main           7dfe273 [origin/main] Refresh branch status and live fork metadata
 $ git branch -a
   bug-fix-revert
   bug-fix-typo
