@@ -1,8 +1,8 @@
 $ git fetch origin
 $ git branch -vv
   bug-fix-revert b279843 [origin/bug-fix-revert] Revert "Fix typo in simple-interest.sh"
-  bug-fix-typo   4a35a2f [origin/bug-fix-typo] Fix typo in simple-interest.sh
-* main           bf6b4f0 [origin/main] Add bug-fix-revert pull request API output
+  bug-fix-typo   6f6633b [origin/bug-fix-typo] Fix typo in README.md
+* main           8aba3ee [origin/main] Record fork metadata and the README merge
 $ git branch -a
   bug-fix-revert
   bug-fix-typo
@@ -11,3 +11,4 @@ $ git branch -a
   remotes/origin/bug-fix-revert
   remotes/origin/bug-fix-typo
   remotes/origin/main
+  remotes/upstream/main
